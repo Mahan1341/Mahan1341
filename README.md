@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vladimir
 
-<!--
-**Mahan1341/Mahan1341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning and AI student at Innopolis University.
 
-Here are some ideas to get you started:
+I am interested in machine learning, computer vision, deep learning, and building practical AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** Python, Java, JavaScript
+
+**ML & Data:** PyTorch, scikit-learn, NumPy, Pandas
+
+**Computer Vision:** OpenCV, ONNX Runtime
+
+**Tools:** Git, GitHub, Jupyter
+
+##  Projects
+
+### Face Recognition System
+A computer vision system for real-time face recognition using ArcFace embeddings, ONNX Runtime, and OpenCV.
+
+→ [Home_FaceRecognition](https://github.com/Mahan1341/Home_FaceRecognition)
+
+##  Currently
+
+- Studying Machine Learning and AI
+- Building ML projects
+- Contributing to open-source projects
