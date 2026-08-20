@@ -1,4 +1,4 @@
-# Hi, I'm Vladimir 👋
+
 
 Machine Learning & AI student at **Innopolis University**, studying **Mathematical Foundations of Artificial Intelligence**.
 
