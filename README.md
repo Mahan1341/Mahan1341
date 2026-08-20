@@ -7,7 +7,7 @@ I build practical ML/CV systems, work with deep learning pipelines, and contribu
 ## Projects
 
 ### [Semantic Image Segmentation](https://github.com/Mahan1341/Image-segmentation-hackathon)
-Solo hackathon project for **4-class semantic segmentation** using **DeepLabV3+** with an **EfficientNet-B5** encoder in PyTorch. The pipeline includes preprocessing, Albumentations-based augmentation, Dice + Focal loss, IoU validation, inference, visualization, and mask post-processing.
+Solo hackathon project for **3-class semantic segmentation of 6-band multispectral GeoTIFF imagery** using **DeepLabV3+** with an **EfficientNet-B5** encoder in PyTorch. The reconstructed reproducible pipeline includes GeoTIFF-based dataset recovery, training-split band normalization, Albumentations augmentation, Dice + class-weighted CrossEntropy loss, per-class IoU evaluation, checkpointing, and prediction visualization. Best mean foreground IoU on the verified recovered validation subset: **0.621**.
 
 ### [Smart Intercom Face Unlock](https://github.com/Mahan1341/smart-intercom-face-unlock)
 End-to-end computer vision system that recognizes an authorized user in an Android intercom app and triggers the door action when no public API is available. Uses a **pretrained ArcFace ONNX model**, OpenCV, cosine similarity, template matching, screen capture, and UI automation.
