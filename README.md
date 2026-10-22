@@ -26,7 +26,7 @@ Work included dependency/build fixes, test infrastructure changes, regression te
 
 ## Tech Stack
 
-**Languages:** Python, Java, JavaScript  
+**Languages:** Python, Java, C++  
 **ML / Data:** PyTorch, Transformers, Hugging Face Datasets, scikit-learn, XGBoost, NumPy, Pandas  
 **Computer Vision:** OpenCV, ONNX Runtime, Albumentations  
 **Tools:** Git, GitHub, Jupyter Notebook
