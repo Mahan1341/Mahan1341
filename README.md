@@ -2,7 +2,7 @@
 
 Machine Learning & AI student at **Innopolis University**, studying **Mathematical Foundations of Artificial Intelligence**.
 
-I build practical ML/CV/NLP systems, work with deep learning pipelines, and contribute to existing open-source codebases.
+I build practical ML/CV/NLP systems, work with deep learning pipelines.
 
 ## Projects
 
